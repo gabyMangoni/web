@@ -132,7 +132,7 @@
                    >> Creación y puesta en marcha de servidor web<br>
                    >>  Integración con otras plataformas mediante apis<br>
                    >> Desarrollos JS / Node <br>
-                   >>  Diseño grafico<br><br><br><br>
+                   >>  Diseño grafico<br><br>
                    <h2 class="h2">SKILLS GABY</h2></div>
             </div>
             </div>
