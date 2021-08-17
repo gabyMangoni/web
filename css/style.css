@@ -467,6 +467,7 @@ body {
     .container {
         max-width: 720px;
       }
+      .img-proyecto{width: 65%;}
     #img-signo { width: 300px;}
     .text-skills{visibility: visible;}
    .skill{visibility: hidden;}
@@ -494,17 +495,16 @@ body {
     .ul-soy {
         padding-top: 220px;
         font-size: 14px; line-height: 28px; 
-        margin-top: 150px;
     }
-    .llave{font-size: 200px; padding-top: 280px;}
+    .llave{font-size: 200px; padding-top: 150px;}
     .text-skills {font-family: 'Montserrat', sans-serif; font-weight: 400; font-size: 14px; line-height: 28px;}
     .ul-skills {
         font-weight: 600; 
         font-size: 12px; 
         line-height: 18px; 
     }
-    #soy {padding-top: 200px;}
-    .img-proyecto{width: 85%;}
+ 
+    .img-proyecto{width: 60%;}
 }
 
 @media (min-width: 768px) {

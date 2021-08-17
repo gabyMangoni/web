@@ -142,7 +142,7 @@
         <!--proyectos-->
         <section class="container-fluid" id="proyectos">
             <div class="container block">  
-                   <h2 class="h2">ALGUNOS PROYECTOS</h2><br><br>
+                   <h2 class="h2">ALGUNOS PROYECTOS</h2><br>
                     <div class="row">
                         <div class="col-6 col-md-4"><a href="https://grupo-4-webyte.herokuapp.com/" target="_blank"><img src="./img/proyecto-webyte.jpg" alt="" class="img-proyecto"></a></div>
                         <div class="col-6 col-md-4"><a href="https://cabildovillageshop.com.ar/" target="_blank"><img src="./img/proyecto-cabildo-village.jpg" alt="" class="img-proyecto"></a></div>
