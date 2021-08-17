@@ -63,7 +63,7 @@
             <div class="container"><div class="row">
             <div class="col-12 col-md-7"><h3 class="h3">DISEÑADORA GRAFICA <br>DEVELOPER WEB FULL STACK</h3>
             <p class="text-home">Soy Gaby, de CABA Argentina. 
-               Trabaje mas de 20 años como diseñadora grafica y web
+               Trabaje mas de 20 años como diseñadora grafica y web. 
                 Actualmente mi desafio es consolidarme como Developer.
                 Me apasiona la tecnología y capacitarme constantemente.</p>
             </div>

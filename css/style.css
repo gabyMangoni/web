@@ -452,6 +452,7 @@ body {
         max-width: 345px;
       }
     .skill {display: block; margin-top: 25px;}
+    .ul-skills{padding-top: 120px;}
   
 }
 @media (min-width: 576px) {
@@ -478,6 +479,7 @@ body {
     #img-signo { width: 400px;}
     .text-proyectos{visibility: visible;}
     .img-proyecto{width: 75%;}
+    .ul-skills{padding-top: 0px;}
   }
 /* LG -- Computadoras */
 
