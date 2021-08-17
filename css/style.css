@@ -504,7 +504,8 @@ body {
         line-height: 18px; 
     }
  
-    .img-proyecto{width: 60%;}
+    .img-proyecto{width: 5%;}
+    .proyectos{margin-top: 10px;}
 }
 
 @media (min-width: 768px) {
