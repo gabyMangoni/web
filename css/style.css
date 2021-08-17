@@ -419,13 +419,14 @@ body {
 #main{ min-height: 180px; margin-top: 80px; height: 100vh; align-items: center; display: flex; width: 100%;}
 #soy {height: 100vh; align-items: center; display: flex; width: 100%;}
 #skills, #proyectos {height: 100vh; align-items: center; display: flex; width: 100%;}
-.img-proyecto{width: 100%;}
+.img-proyecto{width: 99%;}
 .signo{top: 0px;}
 .iconos{padding: 35px 10px;}
 .center {align-items: center; justify-content: center; text-align: center;}
 .block {display: block;}
 .pie {font-family: 'Montserrat', sans-serif; font-weight: 300; font-size: 11px; color: #cfcfcf;}
 .mt-20 {margin-top: 20px;}
+.cien{width: 100%;}
 
 /* XS -- Celulares */
 
@@ -434,7 +435,7 @@ body {
     #img-signo { width: 250px;}
     .text-proyectos, .text-skills{visibility: hidden;}
     .top {height: 70px; }
-
+    .proy{visibility: hidden;}
 }
 
 /* SM -- tablets */
@@ -448,6 +449,7 @@ body {
         max-width: 345px;
       }
     .skill {display: block; margin-top: 25px;}
+  
 }
 @media (min-width: 576px) {
     .container {
@@ -611,4 +613,44 @@ body {
     .offset-md-11 {
       margin-left: 91.66666667%;
     }
+}
+@media (min-width: 992px) {
+  .col-lg {
+    flex: 1 0 0%;
+  }
+
+  .row-cols-lg-auto > * {
+    flex: 0 0 auto;
+    width: auto;
+  }
+
+  .row-cols-lg-1 > * {
+    flex: 0 0 auto;
+    width: 100%;
+  }
+
+  .row-cols-lg-2 > * {
+    flex: 0 0 auto;
+    width: 50%;
+  }
+
+  .row-cols-lg-3 > * {
+    flex: 0 0 auto;
+    width: 33.3333333333%;
+  }
+
+  .row-cols-lg-4 > * {
+    flex: 0 0 auto;
+    width: 25%;
+  }
+
+  .row-cols-lg-5 > * {
+    flex: 0 0 auto;
+    width: 20%;
+  }
+
+  .row-cols-lg-6 > * {
+    flex: 0 0 auto;
+    width: 16.6666666667%;
+  }
 }

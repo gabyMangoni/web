@@ -141,16 +141,17 @@
         </section>
         <!--proyectos-->
         <section class="container-fluid" id="proyectos">
-            <div class="container">
-                <div class="row"><h2 class="h2">ALGUNOS PROYECTOS </h2> <br> <br></div>     
-        <div class="row">
-            <div class="col-6 col-md-4 offset-md-1"><a href="https://grupo-4-webyte.herokuapp.com/" target="_blank"><img src="./img/proyecto-webyte-xs.jpg" alt="" class="img-proyecto"></a></div>
-            <div class="col-6 col-md-4"><a href="https://cabildovillageshop.com.ar/" target="_blank"><img src="./img/proyecto-cabildo-village-xs.jpg" alt="" class="img-proyecto"></a></div>
-            <div class="col-6 col-md-4"><a href="http://www.essenergy.com.ar/" target="_blank"><img src="./img/proyecto-ess-xs.jpg" alt="" class="img-proyecto"></a></div>
-            <div class="col-6 col-md-4"><a href="http://www.issingenieria.com/" target="_blank"><img src="./img/proyecto-iss-xs.jpg" alt="" class="img-proyecto"></a></div>
-            <div class="col-12 col-md-4"><a href="http://www.pallarols.com/" target="_blank"><img src="./img/proyecto-pallarols-xs.jpg" alt="" class="img-proyecto"></a></div>
-        </div>
-       
+            <div class="container block">  
+                   <h2 class="h2">ALGUNOS PROYECTOS</h2><br><br>
+                    <div class="row">
+                        <div class="col-6 col-md-4"><a href="https://grupo-4-webyte.herokuapp.com/" target="_blank"><img src="./img/proyecto-webyte.jpg" alt="" class="img-proyecto"></a></div>
+                        <div class="col-6 col-md-4"><a href="https://cabildovillageshop.com.ar/" target="_blank"><img src="./img/proyecto-cabildo-village.jpg" alt="" class="img-proyecto"></a></div>
+                        <div class="col-6 col-md-4"><a href="http://www.issingenieria.com/" target="_blank"><img src="./img/proyecto-iss.jpg" alt="" class="img-proyecto"></a></div>
+                        <div class="col-6 col-md-4"><a href="http://www.essenergy.com.ar/" target="_blank"><img src="./img/proyecto-ess.jpg" alt="" class="img-proyecto"></a></div>
+                        <div class="col-6 col-md-4"><a href="http://www.pallarols.com/" target="_blank"><img src="./img/proyecto-pallarols.jpg" alt="" class="img-proyecto"></a></div>
+                        <div class="col-6 col-md-4"></div>
+                   </div>
+
         
     </div>
 </section>
