@@ -87,7 +87,7 @@
                 </div>
                 <div class="col-8 col-md-2 llave">}</div>
                 <div class="col-12 col-md-6 "><h2 class="h2 mt-20">SOY GABY</h2>
-                <P class="text-soy">Soy Gaby, vivo en Belgrano, Argentina. Soy diseñadora gráfica con orientacion web. Manejo HTML y CCS responsive. Acabo de terminar Programacion Web Full Stack. Desarrollamos un e-commerce con las tecnologías Node.js, Express, Postman, MySQL, Sequelize, HTML, CSS, React.
+                <P class="text-soy">Soy Gaby, vivo en CABA, Argentina. Soy diseñadora gráfica con orientacion web. Manejo HTML y CCS responsive. Acabo de terminar Programacion Web Full Stack. Desarrollamos un e-commerce con las tecnologías Node.js, Express, Postman, MySQL, Sequelize, HTML, CSS, React.
                     <br>  <br>Soy muy comprometida, puedo trabajar en forma online, presencial y me manejo muy bien en equipo. Me gradué como diseñadora en la UBA. Inicie mi carrera trabajando como maquetadora para empresas de software de gestión empresarial. Luego me dedique más al diseño integral y armado de páginas web. Trabajé mucho tiempo en colaboración con diferentes programadores en pequeños y grandes proyectos.</P>
                 </div>
             </div>
