@@ -22,6 +22,7 @@ a:hover {
     text-decoration: none;
 }
 
+
 body {
     font-family: 'Montserrat', sans-serif;
     font-weight: 300;
@@ -65,6 +66,9 @@ body {
     flex: 1 0 0%;
   }
   
+  #col {
+    flex: 1 0 0%;
+  }
 .row-cols-auto > * {
     flex: 0 0 auto;
     width: auto;
